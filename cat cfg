@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> cat cfg</head>
+    <div class="tab">
+        <button class="tablinks" onclick="openCity(event, 'HOME')">HOME</button>
+        <button class="tablinks" onclick="openCity(event, 'GALLERY')">GALLERY</button>
+        <button class="tablinks" onclick="openCity(event, 'CARE_VIDEOS')">CARE VIDEOS</button>
+        <button class="tablinks" onclick="openCity(event, 'BREED_SELECTOR')">BREED SELECTOR</button>
+      </div>
+      <div class="header" id="myHeader">
+  <h2>HOME</h2>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="CAT 1.jpg">
+    <img src="CAT 2.jpg">
+    <img src="CAT 3.jpg">
+    <img src="NationalGeographic_2572187_square.avif">
+  </div>
+</div>
+</html>
